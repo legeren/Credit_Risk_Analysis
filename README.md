@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-## Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis: 
 The purpose of this analysis is to: (1)Use Resampling Models to Predict Credit Risk; (2)Use the SMOTEENN Algorithm to Predict Credit Risk; and (3)Use Ensemble Classifiers to Predict Credit Risk
 
 The deliverables can be found here:
